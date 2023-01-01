@@ -12,4 +12,4 @@ Open in VSCode
  ```
  code atcoder/
  ```
-Open the command palette on VSCode and select **Remote-Containers: Reopen in Container**.
+Open the command palette on VSCode and select `Remote-Containers: Reopen in Container`.
