@@ -6,5 +6,10 @@
 ## Usage
 Clone this repository
  ```
- sssssssss
+ git clone https://github.com/gomatofu/atcoder_python.git
  ```
+Open in VSCode
+ ```
+ code atcoder/
+ ```
+Open the command palette on VSCode and select **Remote-Containers: Reopen in Container**.
