@@ -17,7 +17,6 @@ Open in VSCode
  ```
 Open the command palette on VSCode and select `Remote-Containers: Reopen in Container`.
 
-
 Commands for question creation, automated testing, and automated testing are introduced at the following sites.  
 [atcoder-cli-command](http://tatamo.81.la/blog/2018/12/07/atcoder-cli-tutorial/)  
 
