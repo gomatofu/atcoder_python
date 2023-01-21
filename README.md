@@ -22,5 +22,3 @@ Commands for question creation, automated testing, and automated testing are int
 
 I have written more details on the community blog if you would like to take a look.
 https://qiita.com/gomatofu/items/1adae9b7cd79b0f8044f
-
-
